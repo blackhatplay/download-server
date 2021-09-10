@@ -1,0 +1,19 @@
+{
+  "name": "download-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.3",
+    "cheerio": "*",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "puppeteer": "^10.2.0"
+  }
+}
